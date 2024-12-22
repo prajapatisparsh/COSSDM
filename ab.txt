@@ -1,0 +1,9 @@
+Q:1  
+
+(a) ls -1 | wc -l
+(b) touch cdac.txt
+(c) mkdir -p data1/data2/data3
+(d)sudo useradd sparsh
+(e) groups
+
+Q:2 
